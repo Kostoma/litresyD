@@ -10,8 +10,8 @@
  
 - [read more] (https://ru.wikipedia.org/wiki/Медвежьи)
 
-| Tables| Are| Cool  |
+| type  | are| Cool  |
 | ---   |:--:|  ----:|
-| bear. | gud|  like |
-| beer. | gud|dislike|
+| bear  | gud|  like |
+| beer  | gud|dislike|
 | bar   | gud|   like|
